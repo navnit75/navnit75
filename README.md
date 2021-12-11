@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Navnit Kumar
-- 🌱 I’m currently learning ... Spring 
-- 💞️ I’m looking to collaborate on ... Open Source
+- 👋 Hi, I’m Navnit 
+- 🌱 I’m currently learning Spring and Spring Framework.  
+- 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me ... kumar.navnit4175@gmail.com
