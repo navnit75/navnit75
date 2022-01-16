@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Navnit 
-- 🌱 I’m currently focusing on Problem Solving and learning various frameworks. 
-- 📫 How to reach me ... kumar.navnit4175@gmail.com
-- ⚡ Fun fact : It rained 4 days `SLOWLY`, but `CONTINUOUSLY`. Flood arrived !!! -> `CONSISTENCY is the KEY`
+- 📫 Mail me at `kumar.navnit4175@gmail.com`
+
