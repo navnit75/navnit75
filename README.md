@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Navnit 
+- ⚡ Here , in the hopes of building myself.
 - 📫 Mail me at `kumar.navnit4175@gmail.com`
 
