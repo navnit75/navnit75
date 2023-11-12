@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Navnit 
-- ⚡ Here , in the hopes of building myself.
+- 👋 Hi, I’m Navnit
+- 🔭 Trying to complete my Master's from `Concordia Unviersity, Montreal`
+- 🌱 Will be releasing the Assignment based work here, as well as some research stuff.
 - 📫 Mail me at `kumar.navnit4175@gmail.com`
 
