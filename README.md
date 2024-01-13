@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Navnit
-- 🔭 Trying to complete my Master's from `Concordia Unviersity, Montreal` batch of 2023-2025
-- 🌱 Will be releasing the Assignment based work here, as well as some research stuff.
-- 📫 Mail me at `kumar.navnit4175@gmail.com`
+- 🔭 CS Grad at `Concordia University`
 
