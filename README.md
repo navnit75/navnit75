@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Navnit
-- 🔭 SDE-1 `Amazon`, Toronto
+- 🔭 
 
